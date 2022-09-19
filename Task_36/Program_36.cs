@@ -10,7 +10,7 @@ int[] CreateArray()
 
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = rnd.Next(-100,101);
+        array[i] = rnd.Next(-100, 101);
     }
     return array;
 }
