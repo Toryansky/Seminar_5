@@ -36,4 +36,4 @@ int SummarizeElementsOnOddIndex(int[] array)
     return summa;
 }
 int result = SummarizeElementsOnOddIndex(arr);
-Console.WriteLine($"\nСумма элементов, стоящих на нечётных позициях.: {result}");
+Console.WriteLine($"\nСумма элементов, стоящих на нечётных позициях: {result}");
